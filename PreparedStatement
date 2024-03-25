@@ -7,8 +7,8 @@ public class DepartmentDatabase {
     public static void main(String[] args) {
         String dbURL = "jdbc:mysql://localhost:3306/departments";
 //my pc won't support my sql, it keeps shutting down when opened.
-        String username = "Vamsivijaykumar";
-        String password = "Vijay@2747";
+        String username = "vijay_747_";
+        String password = "Noneofurbusiness";
 
         Department dept = new Department(1, "Computer Science");
 
